@@ -6,12 +6,12 @@ import sys
 
 def add(x, y):
     """Adds two numbers"""
-    return x + y
+    return first_number + second_number
 
 
 def multiply(x, y):
     """Multiplies two numbers"""
-    return x * y
+    return first_number * second_number
 
 
 def main():
